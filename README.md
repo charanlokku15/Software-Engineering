@@ -1,4 +1,4 @@
-#Intelligent Expense Management Platform
+**1. Intelligent Expense Management Platform**
 A Full-Stack Expense Tracker with OCR & Auto-Categorization
 
 
