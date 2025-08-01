@@ -1,6 +1,4 @@
-# Software-Engineering
-
-Intelligent Expense Management Platform
+#Intelligent Expense Management Platform
 A Full-Stack Expense Tracker with OCR & Auto-Categorization
 
 
