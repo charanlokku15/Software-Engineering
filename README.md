@@ -1,5 +1,5 @@
 **1. Intelligent Expense Management Platform**
-A Full-Stack Expense Tracker with OCR & Auto-Categorization
+-- A Full-Stack Expense Tracker with OCR & Auto-Categorization
 
 
 📌 Overview
